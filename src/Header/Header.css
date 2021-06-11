@@ -1,0 +1,13 @@
+.head{
+    background-color: #f3f3f3;
+}
+.main{
+    width: 200px;
+}
+
+#img{
+    height: 80px;
+}
+.navbar{
+    display: flex;
+}
